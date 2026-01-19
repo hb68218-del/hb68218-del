@@ -1,9 +1,7 @@
 ### Hi, I’m Sally (Haeun) Bae! Welcome to my Github Repositories. 
-<img width="1182" height="390" alt="image" src="https://github.com/user-attachments/assets/aa6f25e2-cc0c-456a-bf48-3c6b8fc25990" />
+<img width="1196" height="521" alt="image" src="https://github.com/user-attachments/assets/0d2c9fe4-59e6-462f-b808-99f54bf5a7ec" />
 
-
-
-I’m an analytics-focused student studying MIS, Management, and International Business, with hands-on experience working at the intersection of HR, IT systems, and data from South Korea. Through enterprise projects, research, and analytics coursework, I’ve learned how to turn complex, messy information into insights that support better decisions for people and organizations.
+I am a Business & HR Analytics student at UGA, aspiring Business and HR Analytics professional with experience in data analysis, HR technology, and enterprise systems. Through enterprise projects, research, and analytics coursework, I’ve learned how to turn complex, messy information into insights that support better decisions for people and organizations.
 
 I’m especially interested in product analyst and business analyst roles where data, systems, and stakeholder needs come together.
 
