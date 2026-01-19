@@ -1,4 +1,5 @@
-### Hi, I’m Sally (Haeun) Bae! Welcome to my Github Repositories. 
+### Hi, I’m Sally (Haeun) Bae! Welcome to my Github Repositories. <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/71796b28-3bde-4bc7-891e-54e338c1a3a4" />
+
 
 I’m an analytics-focused student studying MIS, Management, and International Business, with hands-on experience working at the intersection of HR, IT systems, and data from South Korea. Through enterprise projects, research, and analytics coursework, I’ve learned how to turn complex, messy information into insights that support better decisions for people and organizations.
 
