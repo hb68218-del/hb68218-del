@@ -1,6 +1,6 @@
-### Hi, I’m Sally (Haeun) Bae
+### Hi, I’m Sally (Haeun) Bae! Welcome to my Github Repositories. 
 
-I’m an analytics-focused student studying MIS, Management, and International Business, with hands-on experience working at the intersection of HR, IT systems, and data. Through enterprise projects, research, and analytics coursework, I’ve learned how to turn complex, messy information into insights that support better decisions for people and organizations.
+I’m an analytics-focused student studying MIS, Management, and International Business, with hands-on experience working at the intersection of HR, IT systems, and data from South Korea. Through enterprise projects, research, and analytics coursework, I’ve learned how to turn complex, messy information into insights that support better decisions for people and organizations.
 
 I’m especially interested in product analyst and business analyst roles where data, systems, and stakeholder needs come together.
 
