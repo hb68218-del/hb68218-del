@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I’m Sally (Haeun) Bae
 
-<!--
-**hb68218-del/hb68218-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an analytics-focused student studying MIS, Management, and International Business, with hands-on experience working at the intersection of HR, IT systems, and data. Through enterprise projects, research, and analytics coursework, I’ve learned how to turn complex, messy information into insights that support better decisions for people and organizations.
 
-Here are some ideas to get you started:
+I’m especially interested in product analyst and business analyst roles where data, systems, and stakeholder needs come together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I Work With
+- SQL and relational database design to support analytical and reporting needs  
+- Data analysis and visualization using Power BI and Excel  
+- Python for data ingestion, cleaning, and text-based analytics  
+- Translating technical and business inputs into clear, decision-ready insights  
+
+---
+
+### Selected Projects
+- **College Football Analytics**  
+  Designed and queried a relational database using SQL to analyze performance, attendance, and external factors such as weather and officiating, translating results into Power BI dashboards with managerial insights.
+
+- **Policy and Market Research Analytics**  
+  Built Python-based data pipelines to process large-scale unstructured media and firm-level datasets, transforming qualitative information into structured metrics to support research and executive-level analysis.
