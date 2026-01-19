@@ -15,12 +15,11 @@ I’m especially interested in product analyst and business analyst roles where 
 
 ---
 
-### Selected Projects
 - **SQL College Football Analytics**  
-  Designed and queried a relational database using SQL to analyze performance, attendance, and external factors such as weather and officiating, translating results into Power BI dashboards with managerial insights.
+  Designed and queried a relational database to analyze team performance, attendance trends, and external factors such as weather and officiating. Translated complex SQL outputs into Power BI dashboards with clear managerial insights to support data-driven decision making.
 
-- **Chick-fil-A Business Operations & Development Internship Portfolio**  
-  Summer 2024 Internship Portoflio
-  
-- **Policy and Market Research Analytics**  
-  Built Python-based data pipelines to process large-scale unstructured media and firm-level datasets, transforming qualitative information into structured metrics to support research and executive-level analysis.
+- **Chick-fil-A Business Operations & Analytics Internship Portfolio**  
+  Summer 2024 internship portfolio documenting applied data analysis, operational metrics, and process improvement initiatives across drive-thru operations, staffing efficiency, customer engagement, and technology adoption in a high-volume, customer-facing environment.
+
+- **Policy and Market Research Analytics (In Progress)**  
+  Developing Python-based data pipelines to process large-scale unstructured media and firm-level datasets, converting qualitative informatio
