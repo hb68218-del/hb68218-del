@@ -21,5 +21,5 @@ I’m especially interested in product analyst and business analyst roles where 
 - **Chick-fil-A Business Operations & Analytics Internship Portfolio**  
   Summer 2024 internship portfolio documenting applied data analysis, operational metrics, and process improvement initiatives across drive-thru operations, staffing efficiency, customer engagement, and technology adoption in a high-volume, customer-facing environment.
 
-- **Policy and Market Research Analytics (In Progress)**  
+- **Python_Research-text-data-pipeline**  
   Developing Python-based data pipelines to process large-scale unstructured media and firm-level datasets, converting qualitative informatio
